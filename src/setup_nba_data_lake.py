@@ -142,4 +142,4 @@ def main():
     print("Data lake setup complete.")
 
 if __name__ == "__main__":
-    main())
+    main()
